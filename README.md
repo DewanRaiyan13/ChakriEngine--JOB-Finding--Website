@@ -2,7 +2,7 @@
 
 > The most advanced tech job aggregator for Bangladesh — scraping the web to find your next big opportunity.
 
-![License](https://img.shields.io/badge/license-MIT-6366f1)
+![License](https://img.shields.io/badge/license-Apache_2.0-6366f1)
 ![PHP](https://img.shields.io/badge/PHP-8.2+-777bb4?logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-ff2d20?logo=laravel)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8?logo=tailwind-css)
@@ -161,4 +161,4 @@ The application will be available at `http://localhost:8000`.
 
 ## 📄 License
 
-This project is open-source software licensed under the [MIT license](LICENSE).
+This project is open-source software licensed under the [Apache-2.0 license](LICENSE).
